@@ -13,7 +13,7 @@ list_of_columns =['code', 'state', 'category', 'total exports', 'beef', 'pork', 
 
 mycolumn='dairy'
 myheading1 = f"Wow! That's a lot of {mycolumn}!"
-mygraphtitle = '2011 US Agriculture Exports by State'
+mygraphtitle = '2011 US Dairy Exports by State'
 mycolorscale = 'ylorrd' # Note: The error message will list possible color scales.
 mycolorbartitle = "Millions USD"
 tabtitle = 'MILK LOVER'
